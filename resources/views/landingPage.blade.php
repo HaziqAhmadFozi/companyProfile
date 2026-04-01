@@ -214,20 +214,7 @@
         </div>
     </section>
 
-    <section class="features" id="features">
-        <div class="card reveal">
-            <h3>Neural Core</h3>
-            <p>Leverage pre-trained LLM modules to power your application logic automatically.</p>
-        </div>
-        <div class="card reveal">
-            <h3>Hyper-Speed</h3>
-            <p>Built on the edge. Experience global latency under 30ms for every request.</p>
-        </div>
-        <div class="card reveal">
-            <h3>Secure Vault</h3>
-            <p>Enterprise-grade encryption that keeps user data private and compliant by default.</p>
-        </div>
-    </section>
+   
 
     <footer>
         <p>&copy; 2026 Nexus Protocol. Engineering the future.</p>
